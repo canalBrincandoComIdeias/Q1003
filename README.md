@@ -1,6 +1,6 @@
 # Q1003
 
-**Bandeira Movimentada pelo Arduino 🇧🇷 ** 
+**Bandeira Movimentada pelo Arduino** 
 
 :video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/W9CJWRw3Yvk)
 
